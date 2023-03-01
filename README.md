@@ -19,7 +19,7 @@
 
 ### Tenho conhecimentos com essas:
 
-<div style="display: inline_block">
+<div style="display2: inline_block">
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -27,3 +27,4 @@
 
 ### [Visite meu Portfólio](https://clai7dev.netlify.app/)
 
+![Snake animation](https://github.com/clai7/clai7/blob/output/github-contribution-grid-snake.svg)
