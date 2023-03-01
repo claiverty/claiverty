@@ -28,3 +28,4 @@
 ### [Visite meu Portfólio](https://clai7dev.netlify.app/)
 
 
+![snake gif](https://github.com/clai7/clai7/blob/output/github-contribution-grid-snake.svg)
