@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/clai777)
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://clai7dev.netlify.app/)
 
-![Clai GitHub stats](https://github-readme-stats.vercel.app/api?username=clai7&show_icons=true&theme=midnight-purple)
+![Clai GitHub stats](https://github-readme-stats.vercel.app/api?username=claiverty&show_icons=true&theme=midnight-purple)
 
 ## Tecnologias que uso para desenvolver meus projetos:
 
