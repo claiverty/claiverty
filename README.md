@@ -27,6 +27,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-### [Visite meu Portfólio](https://clai7dev.netlify.app/)
+### [Visite meu Portfólio](https://claiverty.com)
 
 
