@@ -10,7 +10,7 @@ Sou fundador da **DigiUP**, empresa de tecnologia que desenvolve soluções para
 
 ## 👾 Principais habilidades
 
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,vite,py,java,bootstrap,nextjs,nodejs,mongodb,mysql,html,css,git)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,vite,py,java,bootstrap,nextjs,nodejs,prisma,mongodb,mysql,html,css,git)
 
 ## 🧑🏾‍💻 Links Sociais
 
