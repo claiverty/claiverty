@@ -1,8 +1,8 @@
-# Claiverty Rodrigues dos Santos
+# Claiverty Rodrigues
 
-`Desenvolvedor de Software`
+`AI Software Engineer`
 
-Desenvolvedor de Software focado na construção de sistemas, aplicações web e produtos digitais. Atuo transformando requisitos e problemas de negócio em soluções bem estruturadas, performáticas e pensadas para evoluir.
+AI Software Engineer com experiência no desenvolvimento de sistemas inteligentes, arquiteturas escaláveis e soluções de IA em produção. Atuo com LLMs, RAG, agentes de IA, integração de modelos e automação de processos, unindo engenharia de software e inteligência artificial para resolver problemas reais de negócio.
 
 Sou fundador da **DigiUP**, empresa de tecnologia que desenvolve soluções para fortalecer a presença digital de empresas, conectando software, design e estratégia.
 
